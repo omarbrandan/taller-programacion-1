@@ -1,1 +1,1 @@
-# taller-programacion-1
+# Materia Taller de Programación de la Maestría en Gestión y Análisis de Datos Financieros (UBA)
